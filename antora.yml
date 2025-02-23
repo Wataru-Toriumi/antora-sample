@@ -1,5 +1,5 @@
-name: antora-sampleです
+name: antora-sample-site
 version: "1.0"
 title: Antora Sample Site
 nav:
-  - pages/nav.adoc
+  - modules/guides/nav.adoc
