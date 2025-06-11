@@ -7,6 +7,7 @@ antora を試しに動かしてみてるリポジトリです。
 ビルドは、下記コマンドでビルドされます。
 
 ```bash
+pnpm install
 pnpm build
 ```
 
